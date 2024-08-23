@@ -21,6 +21,7 @@ public class Main {
         sort.sort();
         //for (Student s : list)
             System.out.println(list);
+            //
     }
 
 
